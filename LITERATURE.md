@@ -79,7 +79,7 @@ on when or where it runs cannot be evaluated.
 - **Year:** 2025 (IEEE SaTML'26)
 - **Authors:** Miel Verkerken, Laurens D'hooge, Bruno Volckaert, Filip De Turck, Giovanni Apruzzese
 - **Source:** IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)
-- **DOI:** 10.1109/SaTML68715.2026.00051 (arXiv:2509.16038)
+- **DOI:** 10.48550/arXiv.2509.16038 (the SaTML conference DOI 10.1109/SaTML68715.2026.00051 is not yet registered and does not resolve)
 - **Objective:** Generate realistic, automatically labelled traffic reproducibly.
 - **Techniques:** Isolated containerised scenarios driven by shareable configuration files.
 - **Dataset used:** 10 network activities, 21 variants, 100 repetitions; validated against benchmarks and a real network.
