@@ -1,0 +1,6 @@
+# Verified against Python 3.14 with the versions noted below.
+# Lower bounds rather than exact pins, so the project installs on newer
+# interpreters that have no wheels for older releases.
+streamlit>=1.28          # tested with 1.64.0
+pandas>=2.1              # tested with 3.0.2
+plotly>=5.17             # tested with 7.1.0
